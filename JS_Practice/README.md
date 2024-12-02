@@ -1,5 +1,5 @@
-# JavaScript Core Concepts
-
+# JavaScript Core Concepts 
+## Date 02-12-2024
 This Branch demonstrates fundamental JavaScript concepts with examples of basic structures and functionality. Below are the key concepts covered:
 
 - `Cases`
